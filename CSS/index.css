@@ -11,7 +11,7 @@
 
 .header {
     background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-        url(../img/wallpapersden.com_boston-city-buildings_2000x1102.jpg);
+        url(img/wallpapersden.com_boston-city-buildings_2000x1102.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
